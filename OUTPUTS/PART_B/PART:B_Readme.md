@@ -1,5 +1,5 @@
 
-PART B SUMMARY
+PART B 
 ==============
 Best Advanced MLP Configuration:
 {'hidden_units': (512, 256, 128), 'dropout_rates': (0.3, 0.2, 0.1), 'learning_rate': 0.001, 'l2_lambda': 0.0001, 'batch_size': 128}
