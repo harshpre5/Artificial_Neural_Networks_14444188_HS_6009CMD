@@ -1,0 +1,2 @@
+final_model,test_accuracy_pct,low_confidence_rate_pct,accuracy_low_conf_pct,accuracy_high_conf_pct,total_test_samples,total_errors,error_rate_pct
+Tuned_MLP_256units_0.0005lr,99.271,2.894,82.283,99.777,8777,64,0.729
